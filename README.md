@@ -38,9 +38,10 @@ cd <folder name>
 python runner.py img/6.png 
 ```
 example results
-<img src='https://lh3.google.com/u/0/d/12Jjbf17UP1KqUmqOEDTr5FUDS5Yl0IuA=w1040-h950-iv1'>
 
-<img src='https://lh3.google.com/u/0/d/1cUJ_cpyeFLQ9h-02dAH_D9Syb8BQyJl_=w1920-h950-iv1' >
+<img src='https://github.com/rishabhjainfinal/git-commit-drawing/blob/master/ss/6.png?raw=true'>
+
+<img src='https://github.com/rishabhjainfinal/git-commit-drawing/blob/master/ss/64801rishi.png?raw=true' >
 
 
 
@@ -56,7 +57,7 @@ this will help you to create image like drawing canvas after drawing our image s
 python gui.py
 ```
 
-<img src='https://lh6.googleusercontent.com/ohJrnbAFXSfVlPAukAhOg0NQGdJ5EVqgfuQnGpvqZ24bX-aG-8TMoaSmjZpMR3mkapSwz7x0sBmd5okuQJZx=w1920-h950-rw' >
+<img src='https://github.com/rishabhjainfinal/git-commit-drawing/blob/master/ss/Screenshot%20(7).png?raw=true' >
 
 ## server work after creating the files 😎(⌐■_■) 
 ** after saving or running files results will save in `server-files` folder **
