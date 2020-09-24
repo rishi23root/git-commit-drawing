@@ -59,18 +59,31 @@ python gui.py
 
 <img src='https://github.com/rishabhjainfinal/git-commit-drawing/blob/master/ss/Screenshot%20(7).png?raw=true' >
 
+## what about flapy bird in your repo
+
+<img src='https://github.com/rishabhjainfinal/git-commit-drawing/blob/master/ss/Screenshot%20(9).png?raw=true'>
+
+
 ## server work after creating the files 😎(⌐■_■) 
-** after saving or running files results will save in `server-files` folder **
-### *just drop this folder on your server *
-**after downloading the files in server **
+
+**after saving or running files results will save in `server-files` folder **
+
+### just drop this folder on your server
+
+### after downloading the files in server **
+
 ```
 cd server-files 
 ```
+
 **run file in background so it will not killed or terminated after you close ssh**
+
 ```
 nohup python server-commits.py
 ```
+
 **[read more about nohub here link to a article ](https://janakiev.com/blog/python-background/)**
+
 
 ### In some days your cool github drawing will apear in your [git contributions chart]  
 
