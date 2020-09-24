@@ -84,6 +84,8 @@ nohup python server-commits.py
 
 **[read more about nohub here link to a article ](https://janakiev.com/blog/python-background/)**
 
+this file will ask for some data like **username** amd **password** of github for creating one new repo and files in it for git draw 
+this is safe you can add your data here this data will not save or sent any where from the PC
 
 ### In some days your cool github drawing will apear in your [git contributions chart]  
 
