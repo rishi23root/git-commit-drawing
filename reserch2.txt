@@ -1,0 +1,64 @@
+git config --global user.email "you@example.com"
+
+git config --global user.name "Your Name"
+
+
+['FIX_REPO_GET_GIT_REF', '_Github__get_FIX_REPO_GET_GIT_REF',  '_Github__requester', '_Github__set_FIX_REPO_GET_GIT_REF', '_Github__set_per_page', '__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'create_from_raw_data', 'dump', 'get_app', 'get_emojis', 'get_events', 'get_gist', 'get_gists', 'get_gitignore_template', 'get_gitignore_templates', 'get_hook', 'get_hooks', 'get_installation', 'get_license', 'get_licenses', 'get_oauth_application', 'get_organization', 'get_organizations', 'get_project', 'get_project_column', 'get_rate_limit', 'get_repo', 'get_repos', 'get_user', 'get_users', 'load', 'oauth_scopes', 'per_page', 'rate_limiting', 'rate_limiting_resettime', 'render_markdown', 'search_code', 'search_commits', 'search_issues', 'search_repositories', 'search_topics', 'search_users']
+
+
+
+['CHECK_AFTER_INIT_FLAG', '_CompletableGithubObject__complete', '_CompletableGithubObject__completed', '_GithubObject__makeSimpleAttribute', '_GithubObject__makeSimpleListAttribute', '_GithubObject__makeTransformedAttribute', '_Repository__create_pull', '_Repository__create_pull_1', '_Repository__create_pull_2', '__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', '_allow_merge_commit', '_allow_rebase_merge', '_allow_squash_merge', '_archive_url', '_archived', '_assignees_url', '_blobs_url', '_branches_url', '_clone_url', '_collaborators_url', '_comments_url', '_commits_url', '_compare_url', '_completeIfNeeded', '_completeIfNotSet', '_contents_url', '_contributors_url', '_created_at', '_default_branch', '_delete_branch_on_merge', '_deployments_url', '_description', '_downloads_url', '_events_url', '_fork', '_forks', '_forks_count', '_forks_url', '_full_name', '_git_commits_url', '_git_refs_url', '_git_tags_url', '_git_url', '_has_downloads', '_has_issues', '_has_pages', '_has_projects', '_has_wiki', '_headers', '_homepage', '_hooks_url', '_html_url', '_hub', '_id', '_identity', '_initAttributes', '_issue_comment_url', '_issue_events_url', '_issues_url', '_keys_url', '_labels_url', '_language', '_languages_url', '_legacy_convert_issue', '_makeBoolAttribute', '_makeClassAttribute', '_makeDatetimeAttribute', '_makeDictAttribute', '_makeDictOfStringsToClassesAttribute', '_makeFloatAttribute', '_makeIntAttribute', '_makeListOfClassesAttribute', '_makeListOfDictsAttribute', '_makeListOfIntsAttribute', '_makeListOfListOfStringsAttribute', '_makeListOfStringsAttribute', '_makeStringAttribute', '_makeTimestampAttribute', '_master_branch', '_merges_url', '_milestones_url', '_mirror_url', '_name', '_network_count', '_notifications_url', '_open_issues', '_open_issues_count', '_organization', '_owner', '_parent', '_parentUrl', '_permissions', '_private', '_pulls_url', '_pushed_at', '_rawData', '_releases_url', '_requester', '_size', '_source', '_ssh_url', '_stargazers_count', '_stargazers_url', '_statuses_url', '_storeAndUseAttributes', '_subscribers_count', '_subscribers_url', '_subscription_url', '_svn_url', '_tags_url', '_teams_url', '_trees_url', '_updated_at', '_url', '_useAttributes', '_watchers', '_watchers_count', 'add_to_collaborators', 'allow_merge_commit', 'allow_rebase_merge', 'allow_squash_merge', 'archive_url', 'archived', 'assignees_url', 'blobs_url', 'branches_url', 'clone_url', 'collaborators_url', 'comments_url', 'commits_url', 'compare', 'compare_url', 'contents_url', 'contributors_url', 'create_deployment', 'create_file', 'create_fork', 'create_git_blob', 'create_git_commit', 'create_git_ref', 'create_git_release', 'create_git_tag', 'create_git_tag_and_release', 'create_git_tree', 'create_hook', 'create_issue', 'create_key', 'create_label', 'create_milestone', 'create_project', 'create_pull', 'create_repository_dispatch', 'create_source_import', 'created_at', 'default_branch', 'delete', 'delete_branch_on_merge', 'delete_file', 'deployments_url', 'description', 'disable_automated_security_fixes', 'disable_vulnerability_alert', 'downloads_url', 'edit', 'enable_automated_security_fixes', 'enable_vulnerability_alert', 'etag', 'events_url', 'fork', 'forks', 'forks_count', 'forks_url', 'full_name', 'get__repr__', 'get_archive_link', 'get_assignees', 'get_branch', 'get_branches', 'get_clones_traffic', 'get_collaborator_permission', 'get_collaborators', 'get_comment', 'get_comments', 'get_commit', 'get_commits', 'get_contents', 'get_contributors', 'get_deployment', 'get_deployments', 'get_dir_contents', 'get_download', 'get_downloads', 'get_events', 'get_forks', 'get_git_blob', 'get_git_commit', 'get_git_matching_refs', 'get_git_ref', 'get_git_refs', 'get_git_tag', 'get_git_tree', 'get_hook', 'get_hooks', 'get_issue', 'get_issues', 'get_issues_comments', 'get_issues_event', 'get_issues_events', 'get_key', 'get_keys', 'get_label', 'get_labels', 'get_languages', 'get_latest_release', 'get_license', 'get_milestone', 'get_milestones', 'get_network_events', 'get_notifications', 'get_pending_invitations', 'get_projects', 'get_pull', 'get_pulls', 'get_pulls_comments', 'get_pulls_review_comments', 'get_readme', 'get_release', 'get_release_asset', 'get_releases', 'get_source_import', 'get_stargazers', 'get_stargazers_with_dates', 'get_stats_code_frequency', 'get_stats_commit_activity', 'get_stats_contributors', 'get_stats_participation', 'get_stats_punch_card', 'get_subscribers', 'get_tags', 'get_teams', 'get_top_paths', 'get_top_referrers', 'get_topics', 'get_views_traffic', 'get_vulnerability_alert', 'get_watchers', 'get_workflow', 'get_workflow_run', 'get_workflow_runs', 'get_workflows', 'git_commits_url', 'git_refs_url', 'git_tags_url', 'git_url', 'has_downloads', 'has_in_assignees', 'has_in_collaborators', 'has_issues', 'has_pages', 'has_projects', 'has_wiki', 'homepage', 'hooks_url', 'html_url', 'id', 'issue_comment_url', 'issue_events_url', 'issues_url', 'keys_url', 'labels_url', 'language', 'languages_url', 'last_modified', 'legacy_search_issues', 'mark_notifications_as_read', 'master_branch', 'merge', 'merges_url', 'milestones_url', 'mirror_url', 'name', 'network_count', 'notifications_url', 'open_issues', 'open_issues_count', 'organization', 'owner', 'parent', 'permissions', 'private', 'pulls_url', 'pushed_at', 'raw_data', 'raw_headers', 'releases_url', 'remove_from_collaborators', 'remove_invitation', 'replace_topics', 'setCheckAfterInitFlag', 'size', 'source', 'ssh_url', 'stargazers_count', 'stargazers_url', 'statuses_url', 'subscribe_to_hub', 'subscribers_count', 'subscribers_url', 'subscription_url', 'svn_url', 'tags_url', 'teams_url', 'trees_url', 'unsubscribe_from_hub', 'update', 'update_file', 'updated_at', 'url', 'watchers', 'watchers_count']
+[Finished in 1.3s]
+
+
+
+
+git status - to check if file is added to git or not
+git add <filename> - to make a commit
+git commit -m "here your commit" <file-name> - to make  a specific commit 
+git push -u origin master - to murge the file {actully this line make commit possible }
+
+
+setup of github repo/creating threw commend line
+	https://www.youtube.com/watch?v=6xmFp4_U9-A
+
+setup for github commit
+
+Setting your Git credentials for every repository on your computer
+$ git config --global user.name "Mona Lisa"
+
+$ git config --global user.email 	"email@example.com"
+
+commends in row
+
+git add .
+git commit -m "your commit here"
+*git branch -M master     #not important
+git push -u origin master 
+
+
+##############new repo one time only
+echo "# 2" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/123456789023/2.git
+git push -u origin master
+#########################################
+
+git config --global credential.helper store
+
+
+git remote set-url origin https://user:pass@github.com/1.git
+
+
+git init
+
+git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+
+##################################
+
+link - https://stackoverflow.com/questions/6565357/git-push-requires-username-and-password/20774399#:~:text=Open%20up%20your%20command%20line,Password%20saved!
